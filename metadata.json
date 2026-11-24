@@ -1,0 +1,6 @@
+{
+  "name": "ECEG-3174 AM vs. FM Communication Simulator",
+  "description": "Interactive analog communication systems simulator comparing AM envelope detection and FM discrimination under configurable noise, filtering, and threshold conditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
